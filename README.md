@@ -1,6 +1,6 @@
-# Data Engineering Part-1 Exercise
+# Data Engineering Part-1 Studio
 
-## Exercise instructions
+## Studio instructions
 
 For this studio, pair up with another student.
 
